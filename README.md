@@ -1,3 +1,7 @@
+# UASAMS Final Project
+This was a final project for SFWE 402: DEVSECOPS
+We had to implement a new university scholarship system while integrating a devsecops pipeline
+
 ## To change db:
 Link: https://www.w3schools.com/django/django_update_model.php
 
